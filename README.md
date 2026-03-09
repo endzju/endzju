@@ -1,27 +1,17 @@
-## Welcome 👦
-Hi my name is Andre and I am studying Computer Science! 0️⃣1️⃣1️⃣0️⃣1️⃣0️⃣0️⃣1️⃣0️⃣
+# Hi I am Andre! 👋
 
-Fork on Github (narzędzia 6)
-  - [chess blitz tactics](https://github.com/endzju/blitz-tactics)
+### 🎓 Computer Science Student | 6th Semester
+**Focused on AI & Backend Development**
 
-Link do artykułu:
-  - [chess opening tutorials](https://dl.acm.org/doi/pdf/10.1145/228329.228334)
+### 🛠️ **Core Proficiency**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-GitHub Pages website:
-  - [strona github.io](https://endzju.github.io/)
+### 🧪 **Familiar With**
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-My favorite programming languages:
-C++ 👨🏻‍💻
-
-(╯°□°）╯︵ ┻━┻
-
-¯\\\_(ツ)_/¯
-
-
-
-
-
-
-
-
-
+### 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-baron-0a72b73b6/)
