@@ -37,7 +37,7 @@ Agent-based drone swarm simulation for package delivery on a 2D hexagonal grid.
 Goal: Implement various cooperation strategies between drones so they can complete their missions as efficiently as possible while avoiding obstacles and collisions with each other.  
 **Tech:** Python (Mesa, Solara)
 
-## [IoT Bike Alarm](https://github.com/QnK1/IOT_bike_alarm)
+## [IoT_Bike_Alarm](https://github.com/QnK1/IOT_bike_alarm)
 
 A low-power IoT bike alarm built on ESP32, using LoRaWAN, GPS, and an accelerometer to detect theft.  
 Goal: Build hardware and software that enable Bluetooth configuration, detect acceleration, and send long-range wireless GPS data and alarms.  
